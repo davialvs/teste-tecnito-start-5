@@ -102,6 +102,4 @@ public class Veiculo {
     public void pintar(String cor){
          this.cor = cor;
     }
-
-
 }
