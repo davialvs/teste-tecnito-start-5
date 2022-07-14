@@ -1,7 +1,6 @@
 package br.com.gft.desafiotecnico.exercicio01.application;
 
 import br.com.gft.desafiotecnico.exercicio01.entity.Veiculo;
-
 public class Program {
     public static void main(String[] args) {
 
@@ -20,6 +19,5 @@ public class Program {
 
         celtinha.frear();
         System.out.println("A velocidade do celtinha atualmente é de: " + celtinha.getVelocidade());
-
     }
 }
